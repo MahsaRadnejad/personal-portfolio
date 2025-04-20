@@ -8,7 +8,7 @@ function App() {
         {/* Hero Section */}
         <div className="text-center space-y-4">
           <img
-            src="/IMG_4779.JPG"
+            src="/mahsar.jpg"
             alt="Mahsa Radnejad"
             className="w-32 h-32 rounded-full mx-auto border-4 border-white shadow-md"
           />
