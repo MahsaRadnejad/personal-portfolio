@@ -27,7 +27,7 @@ export default function Portfolio() {
       {/* Content Container */}
       <div className="relative z-10 flex flex-col items-center justify-center text-center px-6 py-20 space-y-12">
         <motion.img
-          src="/mahsa.jpg"
+          src="/mahsa1.jpg"
           alt="Mahsa Radnejad"
           className="w-36 h-36 rounded-full shadow-lg border-4 border-white object-cover"
           initial={{ scale: 0, opacity: 0 }}
