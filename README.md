@@ -1,5 +1,5 @@
 
-🧑‍💻Mahsa Radnejad
+🧑‍💻 **Mahsa Radnejad**
 
 PhD Student | Software Engineering | Doctoral Researcher
 
