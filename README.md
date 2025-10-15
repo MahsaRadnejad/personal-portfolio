@@ -1,6 +1,5 @@
-## 🧑‍💻 Author
 
-**Mahsa Radnejad**  
+🧑‍💻Mahsa Radnejad
 PhD Student | Software Engineering | Doctoral Researcher
 
 - 🌐 [LinkedIn](https://linkedin.com/in/mahsaradnejad)  
